@@ -6,4 +6,6 @@
    - git push
 2. 查看仓库的当前状态
    - git status
+3. 查看历史记录
+   - git log
 3. 
